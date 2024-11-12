@@ -1,4 +1,4 @@
-# Guardian of the Forest - Game Upgrade
+# Guardian of the Forest
 
 ## Overview
 **Guardian of the Forest** is an adventure strategy game where the player controls a magical log, the guardian of nature, as it works to restore a destroyed forest. This project aims to upgrade the original concept by introducing modern features, such as 3D graphics, dynamic environments, new abilities, and a deeper storyline. The goal is to retain the core gameplay while expanding on it with innovative mechanics to engage both new and returning players.
