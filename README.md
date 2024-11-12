@@ -1,7 +1,7 @@
 # Guardian of the Forest
 
 ## Overview
-**Guardian of the Forest** is an adventure strategy game where the player controls a magical log, the guardian of nature, as it works to restore a destroyed forest. This project aims to upgrade the original concept by introducing modern features, such as 3D graphics, dynamic environments, new abilities, and a deeper storyline. The goal is to retain the core gameplay while expanding on it with innovative mechanics to engage both new and returning players.
+**Guardian of the Forest** is an adventure strategy game where the player controls a magical log, the guardian of nature, as it works to restore a destroyed forest.
 
 ## Features
 - **Dynamic Environments**: Levels that evolve as the player restores the forest, with changing weather and environments that impact gameplay.
@@ -12,7 +12,7 @@
 - **Upgradeable Log Character**: As players progress, they can enhance the log's abilities to better defend and restore the forest.
 
 ## Formal Elements Document
-[Guardian of the Forest - Formal Elements](https://github.com/YourRepository/Guardian-of-the-Forest---remake/blob/main/formal-elements.md)
+[Guardian of the Forest - Formal Elements](https://github.com/Tal-s-game/Guardian-Of-The-Woods/blob/main/formal-elements.md)
 
 ## Getting Started
 
